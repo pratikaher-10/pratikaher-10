@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently building **Data Science, AI & Web Development Projects**
 
-- 🌱 I’m currently learning **Open Source Contribution, Data Science, Data Sets/visualization/Processing, Backend Development, Communication.**
+- 🌱 I’m currently learning **Data Science & Backend Development**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
