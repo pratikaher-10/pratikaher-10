@@ -1,23 +1,39 @@
 <h1 align="center">Hi 👋, I'm Pratik Aher</h1>
-<h3 align="center">B.Tech CSE (Data Science) Student | Aspiring Software Developer | AI & Data Science Enthusiast</h3>
+<h3 align="center">B.Tech CSE (Data Science) student focused on software development, data science and problem solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikaher-10&label=Profile%20views&color=0e75b6&style=flat" alt="pratikaher-10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikaher-10" alt="pratikaher-10" /></a> </p>
 
-- 🔭 I’m currently building **Data Science, AI & Web Development Projects**
+🌱 Currently working with:
+-  C++
+- Python
+- DSA
+- Backend Development
 
-- 🙌 Passionate about **learning new technologies and solving real world problems using AI**
+🌱 Exploring:
+- Data Science
+- Machine Learning
+- Artificial Intelligence
+- Open Source
 
-- 🌱 I’m currently learning **Data Science & Backend Development**
+💻 Tech Stack
+**Languages:** C++, Python, JavaScript  
+**Backend:** Node.js, Express  
+**Frontend:** HTML, CSS, JS, ReactJS
+**Data:** SQL  
+**Tools:** Git, GitHub
 
-- 👯 I’m looking to collaborate on **Open Source**
+💻 Problem Solving
+- Practicing DSA in C++
+- Working on arrays, strings, linked lists, trees, graphs, DP etc. and problem-solving patterns
 
-- 🤝 I’m looking for help with **DSA, Open Source & System Design**
+👯 Open Source
+Currently exploring open-source contribution through
+issues, documentation improvements, bug fixes, and pull requests.
 
-- 💬 Ask me about **Python, C++, DSA, HTML, CSS, JavaScript, ReactJS, Git & Github, CS fundamentals**
 
-- 📫 How to reach me **pratikaher7277@gmail.com**
+📩 **pratikaher7277@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
