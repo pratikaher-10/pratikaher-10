@@ -17,18 +17,24 @@
 - Artificial Intelligence
 - Open Source
 
+
 💻 Tech Stack
+
 **Languages:** C++, Python, JavaScript  
 **Backend:** Node.js, Express  
 **Frontend:** HTML, CSS, JS, ReactJS
 **Data:** SQL  
 **Tools:** Git, GitHub
 
+
 💻 Problem Solving
+
 - Practicing DSA in C++
 - Working on arrays, strings, linked lists, trees, graphs, DP etc. and problem-solving patterns
 
+
 👯 Open Source
+
 Currently exploring open-source contribution through
 issues, documentation improvements, bug fixes, and pull requests.
 
