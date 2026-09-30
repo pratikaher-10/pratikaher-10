@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently building **Data Science, AI & Web Development Projects**
 
+- 🙌 Passionate about **learning new technologies and solving real world problems using AI**
+
 - 🌱 I’m currently learning **Data Science & Backend Development**
 
 - 👯 I’m looking to collaborate on **Open Source**
