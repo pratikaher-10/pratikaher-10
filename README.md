@@ -19,12 +19,11 @@
 
 
 💻 Tech Stack
-
-**Languages:** C++, Python, JavaScript  
-**Backend:** Node.js, Express  
-**Frontend:** HTML, CSS, JS, ReactJS
-**Data:** SQL  
-**Tools:** Git, GitHub
+- **Languages:** C++, Python, JavaScript  
+- **Backend:** Node.js, Express  
+- **Frontend:** HTML, CSS, JS, ReactJS
+- **Data:** SQL  
+- **Tools:** Git, GitHub
 
 
 💻 Problem Solving
@@ -35,7 +34,7 @@
 
 👯 Open Source
 
-Currently exploring open-source contribution through
+- Currently exploring open-source contribution through
 issues, documentation improvements, bug fixes, and pull requests.
 
 
