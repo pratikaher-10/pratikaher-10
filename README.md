@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikaher-10" alt="pratikaher-10" /></a> </p>
 
-- 🔭 I’m currently working on **Open Sources & Tech/Hackthons Projects**
+- 🔭 I’m currently building **Data Science, AI & Web Development Projects**
 
 - 🌱 I’m currently learning **Open Source Contribution, Data Science, Data Sets/visualization/Processing, Backend Development, Communication.**
 
